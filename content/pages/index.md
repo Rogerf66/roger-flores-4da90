@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Take me to the future, I'm ready
 hide_title: true
 sections:
   - section_id: hero
@@ -109,3 +109,4 @@ seo:
       relativeUrl: true
 layout: advanced
 ---
+take me to the future I'm ready
